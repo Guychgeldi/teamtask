@@ -1,0 +1,10 @@
+@import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
+@tailwind  base;
+@tailwind  components;
+@tailwind  utilities;
+
+.remove-button-bg{
+  -webkit-tap-highlight-color: transparent;
+}
+
+
